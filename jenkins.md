@@ -1,4 +1,4 @@
-# Jenkis Indatallation
+# Jenkis Installation
 
 ## Install Java
 
