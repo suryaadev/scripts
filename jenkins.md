@@ -21,3 +21,9 @@ sudo apt-get update
 sudo apt-get install jenkins
 
 ```
+
+## show jenkins Default password
+
+```
+cat /var/lib/jenkins/secrets/initialAdminPassword
+```
